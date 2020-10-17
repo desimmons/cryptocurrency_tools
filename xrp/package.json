@@ -1,0 +1,13 @@
+{
+  "name": "desimmons_xrp_ledger_tools",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "//": "UNLICENSED", 
+  "dependencies": {
+    "ripple-lib": "*"
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
